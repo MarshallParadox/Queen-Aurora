@@ -1,9 +1,9 @@
 #### Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/BlackAmda/QueenAmdi/blob/launch/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/BlackAmda/QueenAmdi/blob/launch/README-SI.md)
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/MarshallParadox/QueenAurora/blob/launch/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/MarshallParadox/QueenAurora/blob/launch/README-SI.md)
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <img src="https://ibb.co/7kZqTRs" width="300" height="300">
+  <h1>❤ QUEEN AURORA ❤</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
