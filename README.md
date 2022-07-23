@@ -2,7 +2,7 @@
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/MarshallParadox/QueenAurora/blob/launch/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/MarshallParadox/QueenAurora/blob/launch/README-SI.md)
 <div align="center">
-  <img src="https://ibb.co/7kZqTRs" width="300" height="300">
+  <img src="https://w0.peakpx.com/wallpaper/526/615/HD-wallpaper-cyber-eyes-cyberpunk-neon-artist-artwork-digital-art.jpg" width="300" height="300">
   <h1>❤ QUEEN AURORA ❤</h1>
 </div>
 <p align="center">
