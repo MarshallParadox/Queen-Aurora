@@ -2,11 +2,11 @@
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/MarshallParadox/QueenAurora/blob/launch/README.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/MarshallParadox/QueenAurora/blob/launch/README-SI.md)
 <div align="center">
-  <img src="https://w0.peakpx.com/wallpaper/526/615/HD-wallpaper-cyber-eyes-cyberpunk-neon-artist-artwork-digital-art.jpg" width="300" height="300">
+  <img src="https://w0.peakpx.com/wallpaper/526/615/HD-wallpaper-cyber-eyes-cyberpunk-neon-artist-artwork-digital-art.jpg" width="500" height="300">
   <h1>❤ QUEEN AURORA ❤</h1>
 </div>
 <p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
+   Queen Aurora is an advanced user bot made for WhatsApp to make your daytoday tasks easier ❤
     <br>
         <a href="https://chat.whatsapp.com/LYk6el7Ief41N2ypxVqcXD">Whatsapp Group</a> |
         <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
